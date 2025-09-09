@@ -1,5 +1,7 @@
 # Chapter 5
 
+* 5장 Using LIT with Gemma tutorial : https://oreil.ly/zcsLu
+
 ## References 
 * https://oreil.ly/llm-playbooks
 * https://openai.com/api/
