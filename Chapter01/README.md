@@ -34,4 +34,34 @@ Mirage?", 22 May 2023, https://arxiv.org/pdf/2304.15004
 * 심층 학습 , 제이펍, 류광 옮김 https://www.deeplearningbook.org/ 
 * https://d2l.ai/
 * https://oreil.ly/MCOp4
-
+* Vaswani et al., "Attention Is All You Need, 12 Jun 2017, https://arxiv.org/abs/1706.03762 
+* Radford et al., "Improving Language Understanding by Generative Pre-Training", 2018,  https://oreil.ly/dFPSE 
+* Radford et al., "Language Models are Unsupervised Multitask Learners", 2019, https://oreil.ly/JL-VO  
+* Brown et al., "Language Models are Few-Shot Learners", 2020, https://arxiv.org/pdf/2005.14165 
+* OpenAI, "GPT-4 Technical Report", 2023, https://arxiv.org/pdf/2303.08774
+* "Learning to reason with LLMs", https://openai.com/index/learning-to-reason-with-llms/ 
+* Suhas Pai,"Twice as Many Companies Get AI Questions From Analysts", 26 Mar 2024, https://oreil.ly/_mTAs 
+* https://www.jasper.ai/
+* https://www.copy.ai/
+* Fabio Chiusano, "Two minutes NLP — 33 important NLP tasks explained", 7 Dec 2021, https://oreil.ly/_11rN 
+* https://erudite.cc/
+* Pryzant et al., "Automatic Prompt Optimization with "Gradient Descent" and Beam Search", 4 May 2023, https://arxiv.org/abs/2305.03495
+* Shin et al., "AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts", 29 Oct 2020, https://arxiv.org/abs/2010.15980
+* https://learnprompting.org/docs/introduction
+* Sprague et al., "TO COT OR NOT TO COT? CHAIN-OF-THOUGHT HELPS
+MAINLY ON MATH AND SYMBOLIC REASONING", 7 May 2025, https://arxiv.org/pdf/2409.12183
+* https://gandalf.lakera.ai/
+* https://www.lakera.ai/
+* https://arxiv.org/pdf/2307.11760
+* https://oreil.ly/DAa66
+* https://oreil.ly/NRwIb  
+* https://github.com/features/copilot 
+* https://oreil.ly/ivvv_ 
+* Thrush et al., "I am a Strange Dataset: Metalinguistic Tests for Language Models", 6 Aug 2024, https://arxiv.org/pdf/2401.05300
+* https://github.com/TristanThrush/i-am-a-strange-dataset
+* https://arxiv.org/pdf/2403.05750v1
+* https://oreil.ly/hetca
+* https://oreil.ly/5xECI
+* Shaib et al., "Detection and Measurement of Syntactic Templates in Generated Text", 6 Oct 2024, https://arxiv.org/pdf/2407.00211
+* Shaib et al., "Standardizing the Measurement of Text Diversity: A Tool and Comparative Analysis", 21 Mar 2025, https://arxiv.org/html/2403.00553v2
+* https://oreil.ly/llm-playbooks
