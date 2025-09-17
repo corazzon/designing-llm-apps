@@ -36,3 +36,7 @@
 * https://oreil.ly/x5UO8
 * Adam Karvonen, "An Intuitive Explanation of Sparse Autoencoders for LLM Interpretability", 11 Jun 2024, https://oreil.ly/oiXb7
 * Linus Lee, "Prism: mapping interpretable concepts and features in a latent space of language", 22 June, 2024, https://oreil.ly/efzz1
+* https://oreil.ly/Mp3pu
+* https://oreil.ly/aJq2C
+* https://oreil.ly/OUq5M
+* https://oreil.ly/bgxrp
