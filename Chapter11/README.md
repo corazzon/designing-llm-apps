@@ -40,3 +40,9 @@
 * https://oreil.ly/aJq2C
 * https://oreil.ly/OUq5M
 * https://oreil.ly/bgxrp
+* https://spacy.io/usage
+* https://oreil.ly/xKo43
+* https://oreil.ly/fxvBi
+* https://unstructured.io/
+* https://oreil.ly/1MwK1
+* https://oreil.ly/llm-playbooks
