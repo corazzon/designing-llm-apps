@@ -1,5 +1,15 @@
 # Chapter 4
 
+## Exercises
+
+* 4.2_nltk.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter04/4.2_nltk.ipynb)
+* 4.3_transformers.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter04/4.3_transformers.ipynb)
+* 4.3.2_self_attention.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter04/4.3.2_self_attention.ipynb)
+* 4.3.3_ffn.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter04/4.3.3_ffn.ipynb)
+* 4.3.4_layer_norm.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter04/4.3.4_layer_norm.ipynb)
+* 4.7.1_lm_next_token.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter04/4.7.1_lm_next_token.ipynb)
+* masking_strategies.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter04/masking_strategies.ipynb)
+
 ## References
 
 * "Neural Network Methods for Natural Language Processing", https://oreil.ly/oDc6x
