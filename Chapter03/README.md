@@ -1,4 +1,9 @@
 # Chapter 3
+
+## Chapter 3 Exercises
+
+* CH3_BPE.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter03/CH3_BPE.ipynb)
+
 ## References
 
 * "Lexical facts", https://oreil.ly/bkc2C
