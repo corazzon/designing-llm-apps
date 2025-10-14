@@ -2,9 +2,15 @@
 
 <img src="cover.png" alt="실무로 통하는 LLM 어플리케이션 설계 표지" width="500">
 
+* 예스24: https://www.yes24.com/product/goods/158678739
+* 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=374262612
+* 교보: https://product.kyobobook.co.kr/detail/S000218171872
+
+### 원서 정보
 * 원서 : Designing Large Language Model Applications: A Holistic Approach to LLMs
 * 원서 github : https://github.com/piesauce/llm-playbooks
 * amazon : https://www.amazon.com/Designing-Large-Language-Model-Applications/dp/1098150503
+
 
 ### 실습 데이터셋
 | 데이터셋 | 링크 | 설명 |
