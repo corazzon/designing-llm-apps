@@ -1,5 +1,16 @@
 # Chapter 10
 
+## Exercises
+
+* 10.3.2_tool_exercise.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter10/10.3.2_tool_exercise.ipynb)
+* 10.3.2_tool.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter10/10.3.2_tool.ipynb)
+* 10.3.4_exercise_react_movie_recomm.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter10/10.3.4_exercise_react_movie_recomm.ipynb)
+* Chapter_10_1.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter10/Chapter_10_1.ipynb)
+* Chapter_10_2.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter10/Chapter_10_2.ipynb)
+* Chapter_10_3.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter10/Chapter_10_3.ipynb)
+* Chapter_10_4.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter10/Chapter_10_4.ipynb)
+* Chapter_10_5.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter10/Chapter_10_5.ipynb)
+
 ## References 
 
 * Chiu et al., "Symbolic Planning and Code Generation for Grounded Dialogue", 26 Oct 2023, https://arxiv.org/abs/2310.17140
