@@ -2,6 +2,8 @@
 
 <img src="cover.png" alt="실무로 통하는 LLM 어플리케이션 설계 표지" width="500">
 
+* 한빛미디어 : 
+https://www.hanbit.co.kr/store/books/look.php?p_code=B1895034955
 * 예스24: https://www.yes24.com/product/goods/158678739
 * 알라딘: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=374262612
 * 교보: https://product.kyobobook.co.kr/detail/S000218171872
