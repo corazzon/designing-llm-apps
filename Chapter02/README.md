@@ -1,5 +1,21 @@
 # Chapter 2
 
+## Notebooks
+
+• [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/designing-llm-apps/blob/main/Chapter02/2.3_realnewslike.ipynb) `2.3_realnewslike.ipynb`
+
+• [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/designing-llm-apps/blob/main/Chapter02/2.5.1_justtext.ipynb) `2.5.1_justtext.ipynb`
+
+• [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/designing-llm-apps/blob/main/Chapter02/2.5.1_langdetect.ipynb) `2.5.1_langdetect.ipynb`
+
+• [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/designing-llm-apps/blob/main/Chapter02/2.5.2_wikipedia_KenlmModel.ipynb) `2.5.2_wikipedia_KenlmModel.ipynb`
+
+• [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/designing-llm-apps/blob/main/Chapter02/C4_Dataset_Analysis.ipynb) `C4_Dataset_Analysis.ipynb`
+
+• [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/designing-llm-apps/blob/main/Chapter02/Ch2_Cosmopedia.ipynb) `Ch2_Cosmopedia.ipynb`
+
+• [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/designing-llm-apps/blob/main/Chapter02/CH2_FasttextClassifieripynb.ipynb) `CH2_FasttextClassifieripynb.ipynb`
+
 ## References
 
 * OpenAI, "GPT-4 Technical Report", 15 Mar 2023, https://arxiv.org/abs/2303.08774
