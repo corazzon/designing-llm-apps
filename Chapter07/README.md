@@ -1,5 +1,10 @@
 # Chapter 7
 
+## Notebooks
+
+* [tutorial.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter07/finetune_tutorial/tutorial.ipynb)
+* [tutorial_2b.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter07/finetune_tutorial/tutorial_2b.ipynb)
+
 ## References 
 
 * Aharoni et al., "Unsupervised Domain Clusters in Pretrained Language Models", 1 May 2020, https://arxiv.org/pdf/2004.02105
