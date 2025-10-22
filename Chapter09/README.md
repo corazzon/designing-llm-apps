@@ -1,5 +1,10 @@
 # Chapter 9
 
+## Notebooks
+
+* [llama_quantization.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter09/llama_quantization.ipynb)
+* [quantization_analysis.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter09/quantization_analysis.ipynb)
+
 ## References 
 
 * Zhou et al., "A Survey on Efficient Inference for Large Language Models", 19 Jul 2024, https://arxiv.org/pdf/2404.14294
