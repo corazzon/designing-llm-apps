@@ -1,5 +1,9 @@
 # Chapter 11
 
+## Notebooks
+
+* [negation_aware.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter11/negation_aware.ipynb)
+
 ## References 
 * "Vector Similarity Explained: Understanding Distance Metrics for Search and ML", https://www.pinecone.io/learn/vector-similarity/
 * "Sentence Transformers Documentation", https://oreil.ly/8QpBj
