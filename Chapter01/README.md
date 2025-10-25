@@ -1,5 +1,13 @@
 # Chapter 1
 
+## Notebooks
+
+* [1.6_openai_api_dog_and_elephant.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter01/1.6_openai_api_dog_and_elephant.ipynb)
+* [ChatwithyourPDF.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter01/ChatwithyourPDF.ipynb)
+* [Loading_LLMs_Basic_llama2.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter01/getting_started/colab/Loading_LLMs_Basic_llama2.ipynb)
+* [Loading_Models_with_BnB_in_Colab_Free_Tier.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter01/getting_started/colab/Loading_Models_with_BnB_in_Colab_Free_Tier.ipynb)
+* [Poetry_Installation_On_Colab.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter01/getting_started/colab/Poetry_Installation_On_Colab.ipynb)
+
 ## Chapter 1 Exercises
 
 ### Chat with your PDF: DocuBuddy 
