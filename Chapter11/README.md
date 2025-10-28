@@ -2,7 +2,9 @@
 
 ## Notebooks
 
-* [negation_aware.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter11/negation_aware.ipynb)
+* [bi_cross_encoders.ipynb](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter11/bi_cross_encoders.ipynb)
+* [negation_aware.ipynb](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter11/negation_aware.ipynb)
+* [pooling_methods.ipynb](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter11/pooling_methods.ipynb)
 
 ## References 
 * "Vector Similarity Explained: Understanding Distance Metrics for Search and ML", https://www.pinecone.io/learn/vector-similarity/
