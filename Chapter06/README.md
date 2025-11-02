@@ -2,9 +2,9 @@
 
 ## Notebooks
 
-• [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/designing-llm-apps/blob/main/Chapter06/6.1_parameter.ipynb) `6.1_parameter.ipynb`
+• [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter06/6.1_parameter.ipynb) `6.1_parameter.ipynb`
 
-• [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-repo/designing-llm-apps/blob/main/Chapter06/6.2_peft.ipynb) `6.2_peft.ipynb`
+• [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter06/6.2_peft.ipynb) `6.2_peft.ipynb`
 
 ## References 
 
