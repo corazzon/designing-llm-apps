@@ -2,8 +2,8 @@
 
 ## Notebooks
 
-* [tutorial.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter07/finetune_tutorial/tutorial.ipynb)
-* [tutorial_2b.ipynb](https://colab.research.google.com/github/your-username/designing-llm-apps/blob/main/Chapter07/finetune_tutorial/tutorial_2b.ipynb)
+* [tutorial.ipynb](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter07/finetune_tutorial/tutorial.ipynb)
+* [tutorial_2b.ipynb](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter07/finetune_tutorial/tutorial_2b.ipynb)
 
 ## References 
 
