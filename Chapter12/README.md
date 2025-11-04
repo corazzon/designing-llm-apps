@@ -1,5 +1,10 @@
 # Chapter 12
 
+## Notebooks
+
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter12/flare-experiment.ipynb) [flare-experiment.ipynb](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter12/flare-experiment.ipynb)
+* [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter12/soccer_player.ipynb) [soccer_player.ipynb](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter12/soccer_player.ipynb)
+
 ## References 
 * Kandpal et al., "Large Language Models Struggle to Learn Long-Tail Knowledge", 27 Jul 2023, https://arxiv.org/pdf/2211.08411
 * Jagielski et al., "Measuring Forgetting of Memorized Training Examples", 9 May 2023, https://arxiv.org/pdf/2207.00099
