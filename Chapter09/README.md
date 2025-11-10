@@ -2,8 +2,8 @@
 
 ## Notebooks
 
-* [llama_quantization.ipynb](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter09/llama_quantization.ipynb)
-* [quantization_analysis.ipynb](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter09/quantization_analysis.ipynb)
+* [llama_quantization.ipynb](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter09/llama_quantization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter09/llama_quantization.ipynb)
+* [quantization_analysis.ipynb](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter09/quantization_analysis.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/corazzon/designing-llm-apps/blob/main/Chapter09/quantization_analysis.ipynb)
 
 ## References 
 
